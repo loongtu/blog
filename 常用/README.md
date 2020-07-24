@@ -1,6 +1,6 @@
 # 文章列表
 
-20191003_01.md [《centos7创建pycharm桌面快捷方式》](https://github.com/bertramcheng/blog/blob/master/common/20191003_01.md)
+20191003_01.md [《centos7创建pycharm桌面快捷方式》](https://github.com/bertramcheng/blog/blob/master/常用/20191003_01.md)
 
 20191003_02.md [《centos7安装python3.7》](https://github.com/bertramcheng/blog/blob/master/common/20191003_02.md)
 
