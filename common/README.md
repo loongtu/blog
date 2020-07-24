@@ -9,3 +9,5 @@
 20200122_02.md [《git设置代理》](https://github.com/bertramcheng/blog/blob/master/common/20200122_02.md)
 
 20200122_03.md [《docker镜像制作方法》](https://github.com/bertramcheng/blog/blob/master/common/20200122_03.md)
+
+20200123_01.md [《将本地系统做成docker镜像》](https://github.com/bertramcheng/blog/blob/master/common/20200123_01.md)
