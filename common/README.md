@@ -6,3 +6,4 @@
 
 20200122_01.md [《Linux创建和删除用户、组》](https://github.com/bertramcheng/blog/blob/master/common/20200122_01.md)
 
+20200122_02.md [《Git设置代理》](https://github.com/bertramcheng/blog/blob/master/common/20200122_02.md)
