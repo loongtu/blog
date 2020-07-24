@@ -11,3 +11,5 @@
 20200122_03.md [《docker镜像制作方法》](https://github.com/bertramcheng/blog/blob/master/common/20200122_03.md)
 
 20200123_01.md [《将本地系统做成docker镜像》](https://github.com/bertramcheng/blog/blob/master/common/20200123_01.md)
+
+20200615_01.md [《windows下vscode远程连接配置》](https://github.com/bertramcheng/blog/blob/master/common/20200615_01.md)
