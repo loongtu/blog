@@ -7,3 +7,5 @@
 20200825_01.md [《多版本并发控制》](https://github.com/bertramcheng/blog/blob/master/pg/20200825_01.md)
 
 20200825_02.md [《事务》](https://github.com/bertramcheng/blog/blob/master/pg/20200825_02.md)
+
+20200825_03.md [《基于锁的并发控制》](https://github.com/bertramcheng/blog/blob/master/pg/20200825_03.md)
