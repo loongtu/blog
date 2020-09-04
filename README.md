@@ -37,3 +37,5 @@
 - 20200825_02.md [《事务》](https://github.com/bertramcheng/blog/blob/master/pg/20200825_02.md)
 
 - 20200825_03.md [《基于锁的并发控制》](https://github.com/bertramcheng/blog/blob/master/pg/20200825_03.md)
+
+- 20200904_01.md [《清理过程》](https://github.com/bertramcheng/blog/blob/master/pg/20200904_01.md)
