@@ -41,3 +41,7 @@
 - 20200904_01.md [《清理过程》](https://github.com/bertramcheng/blog/blob/master/pg/20200904_01.md)
 
 - 20200910_01.md [《索引结构》](https://github.com/bertramcheng/blog/blob/master/pg/20200910_01.md)
+
+## [3. code](https://github.com/bertramcheng/blog/tree/master/code)
+
+- 20201013_01.md [《深度理解依赖注入（Dependence Injection）》](https://github.com/bertramcheng/blog/blob/master/code/20201013_01.md)
