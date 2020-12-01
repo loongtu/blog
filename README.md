@@ -29,6 +29,8 @@
 
 - 20201130_01.md [《OSI七层协议大白话解读》](https://github.com/bertramcheng/blog/blob/master/network/20201130_01.md)
 
+- 20201201_01.md [《VLAN 基础知识》](https://github.com/bertramcheng/blog/blob/master/network/20201201_01.md)
+
 
 ## [3. pg](https://github.com/bertramcheng/blog/tree/master/pg)
 
