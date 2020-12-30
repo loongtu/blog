@@ -56,3 +56,6 @@
 - 20201207_01.md [《JSON》](https://github.com/bertramcheng/blog/blob/master/code/20201207_01.md)
 
 - 20201225_01.md [《结构体字节对齐，C语言结构体字节对齐详解》](https://github.com/bertramcheng/blog/blob/master/code/20201225_01.md)
+
+- 20201230_01.md [《C语言常见数据类型长度》](https://github.com/bertramcheng/blog/blob/master/code/20201230_01.md)
+
