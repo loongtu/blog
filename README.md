@@ -64,3 +64,6 @@
 - 20210104_01.md [《Format出现FFFFFF》](https://github.com/bertramcheng/blog/blob/master/code/20210104_01.md)
 
 - 20210218_01.md [《C语言中的static详细分析》](https://github.com/bertramcheng/blog/blob/master/code/20210218_01.md)
+
+- 20210305_01.md [《跟我一起写Makefile（一）》](https://github.com/bertramcheng/blog/blob/master/code/20210305_01.md)
+
