@@ -65,11 +65,9 @@
 
 - 20210218_01.md [《C语言中的static详细分析》](https://github.com/bertramcheng/blog/blob/master/code/20210218_01.md)
 
-- 20210305_01.md [《跟我一起写Makefile（一）》](https://github.com/bertramcheng/blog/blob/master/code/20210305_01.md)
+- 20210305_01.md [《Makefile——（一）概述》](https://github.com/bertramcheng/blog/blob/master/code/20210305_01.md)
 
-- 20210305_02.md [《跟我一起写Makefile（二）》](https://github.com/bertramcheng/blog/blob/master/code/20210305_02.md)
-
-- 20210307_01.md [《跟我一起写Makefile（三）》](https://github.com/bertramcheng/blog/blob/master/code/20210307_01.md)
+- 20210307_01.md [《Makefile——（二）总述》](https://github.com/bertramcheng/blog/blob/master/code/20210307_01.md)
 
 
 
