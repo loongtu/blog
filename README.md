@@ -69,6 +69,10 @@
 
 - 20210307_01.md [《Makefile——（二）总述》](https://github.com/bertramcheng/blog/blob/master/code/20210307_01.md)
 
+- 20210311_01.md [《Makefile——（三）书写规则》](https://github.com/bertramcheng/blog/blob/master/code/20210311_01.md)
+
+
+
 
 
 
