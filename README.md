@@ -65,6 +65,8 @@
 
 - 20210218_01.md [《C语言中的static详细分析》](https://github.com/bertramcheng/blog/blob/master/code/20210218_01.md)
 
+- 20210304_01.md [《C/C++内存泄漏》](https://github.com/bertramcheng/blog/blob/master/code/20210304_01.md)
+
 - 20210305_01.md [《Makefile——（一）概述》](https://github.com/bertramcheng/blog/blob/master/code/20210305_01.md)
 
 - 20210307_01.md [《Makefile——（二）总述》](https://github.com/bertramcheng/blog/blob/master/code/20210307_01.md)
