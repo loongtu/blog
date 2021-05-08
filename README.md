@@ -18,6 +18,8 @@
 
 - 20200727_01.md [《github网页上图片显示失败的解决办法》](https://github.com/bertramcheng/blog/blob/master/common/20200727_01.md)
 
+- 20210508_01.md [《使用ISO镜像文件作为离线yum源》](https://github.com/bertramcheng/blog/blob/master/common/20210508_01.md)
+
 
 ## [2. network](https://github.com/bertramcheng/blog/tree/master/network)
 
