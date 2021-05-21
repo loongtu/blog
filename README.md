@@ -20,7 +20,7 @@
 
 - 20210508_01.md [《使用ISO镜像文件作为离线yum源》](https://github.com/bertramcheng/blog/blob/master/common/20210508_01.md)
 
-- 20210521_01.md [《vscode连接远程服务器中的docker容器》](https://github.com/bertramcheng/blog/blob/master/network/20210521_01.md)
+- 20210521_01.md [《vscode连接远程服务器中的docker容器》](https://github.com/bertramcheng/blog/blob/master/common/20210521_01.md)
 
 
 ## [2. network](https://github.com/bertramcheng/blog/tree/master/network)
