@@ -82,5 +82,5 @@
   
 - [typedef 详解](https://github.com/bertramcheng/blog/blob/master/code/20210706_01.md)
 
-
+- [golang 方法集](https://github.com/bertramcheng/blog/blob/master/code/20210916_01.md)
 
