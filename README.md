@@ -20,7 +20,7 @@
   
 - [使用 ISO 镜像文件作为离线 yum 源](https://github.com/bertramcheng/blog/blob/master/common/20210508_01.md)
   
-- [vscode 连接远程服务器中的docker容器](https://github.com/bertramcheng/blog/blob/master/common/20210521_01.md)
+- [vscode 连接远程服务器中的 docker 容器](https://github.com/bertramcheng/blog/blob/master/common/20210521_01.md)
   
 - [centos8 安装 mysql](https://github.com/bertramcheng/blog/blob/master/common/20210608_01.md)
 
