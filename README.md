@@ -41,7 +41,7 @@
 
 ## [3. pg](https://github.com/bertramcheng/blog/tree/master/pg)
 
-- [运行环境 postgresql 由 MD5 切换到 SHA-256](https://github.com/bertramcheng/blog/blob/master/pg/20200808_01.md)
+- [运行环境 postgresql 由 md5 切换到 sha-256](https://github.com/bertramcheng/blog/blob/master/pg/20200808_01.md)
   
 - [数据库集簇、数据库和数据表](https://github.com/bertramcheng/blog/blob/master/pg/20200818_01.md)
   
@@ -58,19 +58,19 @@
 
 ## [3. code](https://github.com/bertramcheng/blog/tree/master/code)
 
-- [深度理解依赖注入（Dependence Injection）](https://github.com/bertramcheng/blog/blob/master/code/20201013_01.md)
+- [深度理解依赖注入（dependence injection）](https://github.com/bertramcheng/blog/blob/master/code/20201013_01.md)
   
-- [JSON](https://github.com/bertramcheng/blog/blob/master/code/20201207_01.md)
+- [json](https://github.com/bertramcheng/blog/blob/master/code/20201207_01.md)
   
-- [结构体字节对齐，C 语言结构体字节对齐详解](https://github.com/bertramcheng/blog/blob/master/code/20201225_01.md)
+- [结构体字节对齐，c 语言结构体字节对齐详解](https://github.com/bertramcheng/blog/blob/master/code/20201225_01.md)
   
-- [C 语言常见数据类型长度](https://github.com/bertramcheng/blog/blob/master/code/20201230_01.md)
+- [c 语言常见数据类型长度](https://github.com/bertramcheng/blog/blob/master/code/20201230_01.md)
   
-- [format 出现 FFFFFF](https://github.com/bertramcheng/blog/blob/master/code/20210104_01.md)
+- [format 出现 ffffff](https://github.com/bertramcheng/blog/blob/master/code/20210104_01.md)
   
-- [C 语言中的 static 详细分析](https://github.com/bertramcheng/blog/blob/master/code/20210218_01.md)
+- [c 语言中的 static 详细分析](https://github.com/bertramcheng/blog/blob/master/code/20210218_01.md)
   
-- [C/C++ 内存泄漏](https://github.com/bertramcheng/blog/blob/master/code/20210304_01.md)
+- [c/c++ 内存泄漏](https://github.com/bertramcheng/blog/blob/master/code/20210304_01.md)
   
 - [makefile——（一）概述](https://github.com/bertramcheng/blog/blob/master/code/20210305_01.md)
   
