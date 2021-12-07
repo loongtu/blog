@@ -2,9 +2,9 @@
 
 ## [1. 常用](https://github.com/bertramcheng/blog/tree/master/common)
 
-- [CentOS7 创建 pycharm 桌面快捷方式](https://github.com/bertramcheng/blog/blob/master/common/20191003_01.md)
+- [CentOS 7 创建 pycharm 桌面快捷方式](https://github.com/bertramcheng/blog/blob/master/common/20191003_01.md)
   
-- [CentOS7 安装 python3.7](https://github.com/bertramcheng/blog/blob/master/common/20191003_02.md)
+- [CentOS 7 安装 python 3.7](https://github.com/bertramcheng/blog/blob/master/common/20191003_02.md)
   
 - [Linux 创建和删除用户、组](https://github.com/bertramcheng/blog/blob/master/common/20200122_01.md)
   
@@ -22,7 +22,7 @@
   
 - [VSCode 连接远程服务器中的 docker 容器](https://github.com/bertramcheng/blog/blob/master/common/20210521_01.md)
   
-- [CentOS8 安装 mysql](https://github.com/bertramcheng/blog/blob/master/common/20210608_01.md)
+- [CentOS 8 安装 mysql](https://github.com/bertramcheng/blog/blob/master/common/20210608_01.md)
 
 ## [2. Network](https://github.com/bertramcheng/blog/tree/master/network)
 
