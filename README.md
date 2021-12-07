@@ -18,7 +18,7 @@
   
 - [github 网页上图片显示失败的解决办法](https://github.com/bertramcheng/blog/blob/master/common/20200727_01.md)
   
-- [使用 ISO 镜像文件作为离线 yum 源](https://github.com/bertramcheng/blog/blob/master/common/20210508_01.md)
+- [使用 iso 镜像文件作为离线 yum 源](https://github.com/bertramcheng/blog/blob/master/common/20210508_01.md)
   
 - [vscode 连接远程服务器中的 docker 容器](https://github.com/bertramcheng/blog/blob/master/common/20210521_01.md)
   
@@ -41,7 +41,7 @@
 
 ## [3. pg](https://github.com/bertramcheng/blog/tree/master/pg)
 
-- [运行环境 postgresql 由 md5 切换到 sha-256](https://github.com/bertramcheng/blog/blob/master/pg/20200808_01.md)
+- [运行环境 postgresql 由 MD5 切换到 SHA-256](https://github.com/bertramcheng/blog/blob/master/pg/20200808_01.md)
   
 - [数据库集簇、数据库和数据表](https://github.com/bertramcheng/blog/blob/master/pg/20200818_01.md)
   
@@ -66,17 +66,17 @@
   
 - [C 语言常见数据类型长度](https://github.com/bertramcheng/blog/blob/master/code/20201230_01.md)
   
-- [Format 出现 FFFFFF](https://github.com/bertramcheng/blog/blob/master/code/20210104_01.md)
+- [format 出现 FFFFFF](https://github.com/bertramcheng/blog/blob/master/code/20210104_01.md)
   
 - [C 语言中的 static 详细分析](https://github.com/bertramcheng/blog/blob/master/code/20210218_01.md)
   
 - [C/C++ 内存泄漏](https://github.com/bertramcheng/blog/blob/master/code/20210304_01.md)
   
-- [Makefile——（一）概述](https://github.com/bertramcheng/blog/blob/master/code/20210305_01.md)
+- [makefile——（一）概述](https://github.com/bertramcheng/blog/blob/master/code/20210305_01.md)
   
-- [Makefile——（二）总述](https://github.com/bertramcheng/blog/blob/master/code/20210307_01.md)
+- [makefile——（二）总述](https://github.com/bertramcheng/blog/blob/master/code/20210307_01.md)
   
-- [Makefile——（三）书写规则](https://github.com/bertramcheng/blog/blob/master/code/20210311_01.md)
+- [makefile——（三）书写规则](https://github.com/bertramcheng/blog/blob/master/code/20210311_01.md)
   
 - [由 tcphdr 到位序（bit order）的思考](https://github.com/bertramcheng/blog/blob/master/code/20210512_01.md)
   
