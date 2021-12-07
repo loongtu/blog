@@ -16,7 +16,7 @@
   
 - [Windows 下 vscode 远程连接配置](https://github.com/bertramcheng/blog/blob/master/common/20200615_01.md)
   
-- [GitHub 网页上图片显示失败的解决办法](https://github.com/bertramcheng/blog/blob/master/common/20200727_01.md)
+- [Github 网页上图片显示失败的解决办法](https://github.com/bertramcheng/blog/blob/master/common/20200727_01.md)
   
 - [使用 ISO 镜像文件作为离线 yum 源](https://github.com/bertramcheng/blog/blob/master/common/20210508_01.md)
   
