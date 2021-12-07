@@ -18,7 +18,7 @@
   
 - [github 网页上图片显示失败的解决办法](https://github.com/bertramcheng/blog/blob/master/common/20200727_01.md)
   
-- [使用 iso 镜像文件作为离线 yum 源](https://github.com/bertramcheng/blog/blob/master/common/20210508_01.md)
+- [使用 ISO 镜像文件作为离线 yum 源](https://github.com/bertramcheng/blog/blob/master/common/20210508_01.md)
   
 - [vscode 连接远程服务器中的 docker 容器](https://github.com/bertramcheng/blog/blob/master/common/20210521_01.md)
   
