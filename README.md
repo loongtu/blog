@@ -56,7 +56,7 @@
 - [索引结构](./pg/20200910_01.md)
 
 
-## [3. Code](./code)
+## [4. Code](./code)
 
 - [深度理解依赖注入（dependence injection）](./code/20201013_01.md)
   
