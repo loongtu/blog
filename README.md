@@ -4,7 +4,7 @@
 
 ## [2. network](./network)
 
-## [3. postgresql](./pg)
+## [3. database](./database)
 
 ## [4. code](./code)
 
