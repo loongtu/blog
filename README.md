@@ -4,20 +4,6 @@
 
 ## [2. network](./network)
 
-- [TLS 协议简介](./network/20200401_01.md)
-  
-- [centos 下搭建 openssl 测试环境](./network/20200402_01.md)
-  
-- [TLS SNI 测试](./network/20200402_02.md)
-  
-- [OSI 七层协议大白话解读](./network/20201130_01.md)
-  
-- [VLAN 基础知识](./network/20201201_01.md)
-  
-- [数字签名、数字证书与 HTTPS 是什么关系？](./network/20210219_01.md)
-
-- [iptables 详解](./network/20220119_01.md)
-
 ## [3. postgresql](./pg)
 
 - [运行环境 postgresql 由 md5 切换到 sha-256](./pg/20200808_01.md)
