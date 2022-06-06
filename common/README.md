@@ -1,5 +1,7 @@
 # 常用
 
+- [常用命令](./files/20220606_01.md)
+
 - [centos 7 创建 pycharm 桌面快捷方式](./files/20191003_01.md)
   
 - [centos 7 安装 python 3.7](./files/20191003_02.md)
