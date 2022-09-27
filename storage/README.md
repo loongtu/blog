@@ -4,6 +4,5 @@
 
 - [蛋蛋读 UFS](./files/20220829_01.md)
 
-- [UPIU and command](./files/20220927_01.md)
 
 
