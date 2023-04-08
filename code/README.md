@@ -39,3 +39,16 @@
 ## 4. python
 
 - [interview](./files/20220509_01.md)
+
+- [python3 中的 format 函数](./files/20230408_01.md)
+
+
+
+
+
+
+
+
+
+
+
