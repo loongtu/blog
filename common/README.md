@@ -1,10 +1,15 @@
 # 常用
 
 - [常用命令](./files/20220606_01.md)
+
 - [centos 7 创建 pycharm 桌面快捷方式](./files/20191003_01.md)
+
 - [centos 7 安装 python 3.7](./files/20191003_02.md)
+
 - [linux 创建和删除用户、组](./files/20200122_01.md)
+
 - [git 设置代理](./files/20200122_02.md)
+
 - [docker 镜像制作方法](./files/20200122_03.md)
 - [将本地系统做成 docker 镜像](./files/20200123_01.md)
 - [windows 下 vscode 远程连接配置](./files/20200615_01.md)
