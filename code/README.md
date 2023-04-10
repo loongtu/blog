@@ -40,6 +40,8 @@
 
 - [interview](./files/20220509_01.md)
 
+- [深度剖析 CPython 解释器](./files/20230410_01.md)
+
 - [python3 中的 format 函数](./files/20230408_01.md)
 
 - [python 转义符](./files/20230408_02.md)
