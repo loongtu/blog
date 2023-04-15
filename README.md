@@ -1,11 +1,11 @@
 # 分类专栏
 
-## [1. 常用](./common)
+- [常用](./common)
 
-## [2. network](./network)
+- [network](./network)
 
-## [3. database](./database)
+- [database](./database)
 
-## [4. code](./code)
+- [code](./code)
 
-## [5. storage](./storage)
+- [storage](./storage)
